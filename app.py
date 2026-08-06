@@ -183,7 +183,7 @@ if st.button("🚀 Run Verification Pipeline", use_container_width=True):
 # --- TEAM CREDITS FOOTER ---
 st.markdown(
     "<div class='team-footer'>"
-    "🚀 Developed by: <b>Debritu</b>, <b>Sudipta</b>, <b>Roopsha</b>, and <b>Antarika</b>"
+    "🚀 Developed by: <b>Debritu</b>, <b>Sudipta</b>, <b>Roopsha</b>"
     "</div>", 
     unsafe_allow_html=True
 )
